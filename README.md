@@ -1,10 +1,8 @@
-# Getting Started with Create React App
-
+# Who I am?
+This project is deployed on [Netlify](https://who-i-am-sheyko-react.netlify.app)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
